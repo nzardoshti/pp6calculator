@@ -10,3 +10,6 @@ Nima Zardoshti
 License
 -------
 Open Source
+
+Instalation
+-----------

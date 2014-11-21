@@ -1,0 +1,1 @@
+/bin/c++       CMakeFiles/Produt.dir/Product.cpp.o CMakeFiles/Produt.dir/ProductLib/Product_Math.cpp.o  -o Produt -rdynamic 

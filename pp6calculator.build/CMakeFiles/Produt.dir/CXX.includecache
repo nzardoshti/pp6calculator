@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/st-28/mpagspp6/pp6calculator.git/Product.cpp
+iostream
+-
+climits
+-
+cmath
+-
+ProductLib/Product_Math.hpp
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Product_Math.hpp
+
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Product_Math.cpp
+iostream
+-
+climits
+-
+cmath
+-
+Product_Math.hpp
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Product_Math.hpp
+
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Product_Math.hpp
+

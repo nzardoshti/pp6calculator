@@ -1,0 +1,2 @@
+/bin/ar cr libProductLib.a  CMakeFiles/ProductLib.dir/Product_Math.cpp.o CMakeFiles/ProductLib.dir/Product_Week_1.cpp.o CMakeFiles/ProductLib.dir/Product_Week_2.cpp.o CMakeFiles/ProductLib.dir/Product_Week_3.cpp.o CMakeFiles/ProductLib.dir/Four_Vector.cpp.o
+/bin/ranlib libProductLib.a

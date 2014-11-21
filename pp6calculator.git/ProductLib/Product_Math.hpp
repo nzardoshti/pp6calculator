@@ -1,7 +1,9 @@
 #ifndef Product_Product_Math_HH  //this guards against errors if the same header file is included in the cpp file more than once (i.e by different people
 #define Product_Product_Math_HH  //the name Product_Product_HH is completley arbitary and the only requirement is that it be unique 
 
-
+void Product_Week_1();
+void Product_Week_2();
+void Product_Week_3();
 double Addition(double a,double b);
 double Subtraction(double a,double b);
 double Multiplication(double a,double b);

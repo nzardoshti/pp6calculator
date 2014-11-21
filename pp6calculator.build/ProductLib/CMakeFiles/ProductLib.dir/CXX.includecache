@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Four_Vector.cpp
+iostream
+-
+climits
+-
+cmath
+-
+Four_Vector.hpp
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Four_Vector.hpp
+
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Four_Vector.hpp
+
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Product_Math.hpp
+
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Product_Week_3.cpp
+iostream
+-
+climits
+-
+cmath
+-
+cstdlib
+-
+Product_Math.hpp
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Product_Math.hpp
+Four_Vector.hpp
+/home/st-28/mpagspp6/pp6calculator.git/ProductLib/Four_Vector.hpp
+
